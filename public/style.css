@@ -1,0 +1,37 @@
+@import url(https://fonts.googleapis.com/css?family=Lato);
+
+html{
+  height: 100%;
+}
+body{
+  text-align:center;
+  height: 100%;
+  background-image: url("img/light-bg2.png");
+  color: black;
+  font-family: "Average", serif;
+  font-size:22px;
+}
+h1{
+  font-family: "Lato",sans-serif;
+}
+.btn{
+  font-size: inherit;
+  color: white;
+  background-color:purple;
+  text-decoration: none;
+  padding: 1em;
+  margin-bottom: 1.5em;
+  display: inline-block;
+}
+.guess{
+  height:2em;
+  display:block;
+  margin: 0 auto 1em;
+}
+.image{
+  height:300px;
+  width:300px;
+}
+.title{
+  font-size:5em;
+}
